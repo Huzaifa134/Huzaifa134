@@ -17,7 +17,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Huzaifa134](https://github.com/Huzaifa134)
 
-- 💬 Ask me about **React , Javascript**
+- 💬 Ask me about **React , Javascript, UI/UX Designing and Python**
 
 - 📫 How to reach me **mhuzaifa134@gmail.com**
 
