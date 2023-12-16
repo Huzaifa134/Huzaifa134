@@ -12,7 +12,6 @@
 
 - 🔭 I’m currently working on **React**
 
-- 🌱 I’m currently learning **Node and Express**
 
 - 👯 I’m looking to collaborate on **MERN**
 
